@@ -1,0 +1,27 @@
+{
+  "name": "challenge-10",
+  "version": "1.0.0",
+  "description": "Employee Tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawnachirillo/challenge-10.git"
+  },
+  "keywords": [
+    "employee",
+    "tracker"
+  ],
+  "author": "Shawna Chirillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawnachirillo/challenge-10/issues"
+  },
+  "homepage": "https://github.com/shawnachirillo/challenge-10#readme",
+  "dependencies": {
+    "inquirer": "^12.4.2",
+    "pg": "^8.13.3"
+  }
+}
